@@ -1,0 +1,1 @@
+The scripts above relate to work from the book called **Neural Networks from Scratch** by *Sentdex*. Arguably, the content might make more sense in a Google Colab notebook, but this was done so long ago I don't think there's a point.
